@@ -8,5 +8,5 @@
 
 🌱 Learning and Growing: The tech world is ever-evolving, and so am I. I'm always on the lookout for new learning opportunities and collaborations. Let's build something amazing together!
 
-📫 Connect with Me: https://www.facebook.com/jubransary
+📫 Connect with Me: via email => jubransarykhoury@gmail.com
 
