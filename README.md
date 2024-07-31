@@ -6,10 +6,10 @@
 - Robotics Engineer
 <br />
 
-- Mobile Application Developer
+- Full Stack Engineer
 <br />
 
-- Full Stack Engineer
+- Mobile Application Developer
 <br />
 
 - Network Engineer
