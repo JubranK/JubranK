@@ -1,10 +1,15 @@
 👋 Hi there! I'm Jubran, a fifth-year Computer Engineering student with a deep love for coding and hardware. My journey in the tech world has led me to explore various domains. I am a:<br />
 
-Frontend Web Developer (Angular framework)<br />
-Robotics Engineer<br />
-Mobile Application Developer<br />
-Full Stack Engineer<br />
-Network Engineer<br />
+Frontend Web Developer (Angular framework)
+<br />
+Robotics Engineer
+<br />
+Mobile Application Developer
+<br />
+Full Stack Engineer
+<br />
+Network Engineer
+<br />
 <br />
 🔧 Hardware Enthusiast: Whether it's building robots or creating IoT devices, I enjoy bringing ideas to life with microcontrollers like the ESP32 and Arduino. I believe in the power of hardware to solve real-world problems and make our lives better.
 
