@@ -2,13 +2,18 @@
 
 - Frontend Web Developer (Angular framework)
 <br />
+
 - Robotics Engineer
 <br />
+
 - Mobile Application Developer
 <br />
+
 - Full Stack Engineer
 <br />
+
 - Network Engineer
+  
 <br />
 <br />
 🔧 Hardware Enthusiast: Whether it's building robots or creating IoT devices, I enjoy bringing ideas to life with microcontrollers like the ESP32 and Arduino. I believe in the power of hardware to solve real-world problems and make our lives better.
