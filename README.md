@@ -9,7 +9,7 @@
 - Mobile Application Developer
 - Network Engineer
 
-### 📫 You can contact me at: [jubransarykhoury@gmail.com](mailto:jubransarykhoury@gmail.com)
+### 📫 Contact me at: [jubransarykhoury@gmail.com](mailto:jubransarykhoury@gmail.com)
 
 ### Skills
 <p align="left">
