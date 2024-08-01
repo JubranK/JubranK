@@ -1,4 +1,4 @@
-# Hi 👋 My name is Jubran Khoury
+Jubran Khoury
 
 ## A Computer System Engineering Student
 
