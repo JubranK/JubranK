@@ -1,6 +1,6 @@
 ## Jubran Khoury
 
-## A Computer System Engineering Student
+## Computer System Engineering Student
 
 ### I am:
 - Frontend Web Developer (Angular framework)
