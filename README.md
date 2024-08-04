@@ -3,7 +3,7 @@
 ## Computer System Engineering Student
 
 ### I am a:
-- Frontend Web Developer (Angular framework)
+- Frontend Web Developer (Angular developer)
 - Robotics Engineer
 - Full Stack Engineer
 - Mobile Application Developer
